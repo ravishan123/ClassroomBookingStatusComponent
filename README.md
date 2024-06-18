@@ -1,4 +1,5 @@
 Certainly! Here's a basic template for your README.md file for the Classroom Availability Component:
+<img width="1434" alt="Screenshot 2024-06-19 at 01 13 54" src="https://github.com/ravishan123/ClassroomBookingStatusComponent/assets/66440787/796f46b9-5aa3-46a4-bf1a-2ccb40d28ca5">
 
 ```markdown
 # Classroom Availability Component
@@ -69,5 +70,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - Your Name
 - GitHub: [Your GitHub Profile](https://github.com/ravishan123)
 
-```
-<img width="1434" alt="Screenshot 2024-06-19 at 01 13 54" src="https://github.com/ravishan123/ClassroomBookingStatusComponent/assets/66440787/796f46b9-5aa3-46a4-bf1a-2ccb40d28ca5">
+
