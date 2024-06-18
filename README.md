@@ -70,11 +70,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - GitHub: [Your GitHub Profile](https://github.com/ravishan123)
 
 ```
-
-### Notes:
-- Replace placeholders like `path/to/ClassroomAvailability` with the actual path to your `ClassroomAvailability` component file.
-- Update the `Installation` section with accurate instructions based on your project's setup.
-- If you have a live demo, replace `link-to-demo` with the actual URL.
-- Customize the `Acknowledgments` and `Author` sections with your own details.
-
-This template provides a starting point for your README file. Feel free to expand on it further based on your specific project details and requirements!
+<img width="1434" alt="Screenshot 2024-06-19 at 01 13 54" src="https://github.com/ravishan123/ClassroomBookingStatusComponent/assets/66440787/796f46b9-5aa3-46a4-bf1a-2ccb40d28ca5">
